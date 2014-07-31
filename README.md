@@ -9,4 +9,4 @@ Wanna improve on my ramblings? Submit a pull request.
 
 ### ideas:
 
-*\*crickets\**
+1. [Bluetooth Commuting](https://github.com/Cbeck527/ideas/blob/master/Bluetooth%20Commuting.md)

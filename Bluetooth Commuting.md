@@ -1,4 +1,4 @@
-  # bluetooth commute tracking
+# bluetooth commute tracking
   
 I should start off by saying that I spend a borderline-obsessive amount of time tracking my commute to work each day. I find it fun to optimize my commute and try and figure out the fastest way to get around the city.
 
