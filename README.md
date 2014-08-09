@@ -10,3 +10,4 @@ Wanna improve on my ramblings? Submit a pull request.
 ### ideas:
 
 1. [Bluetooth Commuting](https://github.com/Cbeck527/ideas/blob/master/Bluetooth%20Commuting.md)
+2. [Snapchat and Foursquare](https://github.com/Cbeck527/ideas/blob/master/Snapchat%20and%20Foursquare.md)
